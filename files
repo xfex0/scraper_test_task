@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+fastapi==0.95.2
+uvicorn==0.22.0
+python-multipart==0.0.6
